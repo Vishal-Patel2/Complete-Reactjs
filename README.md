@@ -41,7 +41,7 @@ Follow these steps to set up and run the project locally.
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone # 🚀 Getting Started
+git clone 
 ```
 
 ## Follow these steps to set up and run the project locally.
