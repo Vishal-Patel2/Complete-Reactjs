@@ -34,7 +34,7 @@ This repository contains a fully functional React application built with modern 
  ┣ 📜 package.json  # Dependencies and scripts
  ┣ 📜 README.md     # Project documentation
 
-
+```
 # 🚀 Getting Started
 
 Follow these steps to set up and run the project locally.
