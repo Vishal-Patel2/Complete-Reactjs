@@ -42,28 +42,34 @@ Follow these steps to set up and run the project locally.
 ### 1️⃣ Clone the Repository
 ```sh
 git clone # 🚀 Getting Started
+```
 
 Follow these steps to set up and run the project locally.
 
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/Vishal-Patel2/Complete-Reactjs.git
+```
 
 ## 2️⃣ Navigate to the Project Folder
 ```sh
 cd your-repo
+```
 
 ## 3️⃣ Install Dependencies
 ```sh
 npm install
+```
 
 ## 4️⃣ Start the Development Server
 ```sh
 npm start
+```
 
 ## 5️⃣ Build for Production
 ```sh
 npm run build
+````
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
